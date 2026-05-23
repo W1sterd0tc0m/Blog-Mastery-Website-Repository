@@ -16,9 +16,9 @@ A practice Bootstrap website for downloading a free E-book. This website has a l
 
 ## How to load it
 
-The website can be loaded by clicking on the Github pages link in the settings or checking under deployments.
+The website can be loaded by clicking this link: https://w1sterd0tc0m.github.io/Blog-Mastery-Repository/
 
-It can also be downloaded and ran by downloading the repository and executing the index.html file.
+Or it can be downloaded and ran by downloading the repository and executing the index.html file.
 
 ## Usage
 
